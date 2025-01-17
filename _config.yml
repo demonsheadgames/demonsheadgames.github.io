@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David Fernandez / Game Developer"
+title                    : "David Fernandez / Game Designer"
 title_separator          : "-"
 name                     : &name "David Fernandez"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "David Fernandez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Game Design and Development"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
